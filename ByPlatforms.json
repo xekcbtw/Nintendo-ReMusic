@@ -1,0 +1,23 @@
+{
+  "hardware": [
+    {
+      "formalHardware": "Nintendo Switch",
+      "items": [
+        {
+          "formalHardware": "Nintendo Switch",
+          "id": "e55a92d6-12f2-4011-8312-e7b38e2a3c7f",
+          "isGameLink": false,
+          "name": "Rhythm Heaven Megamix",
+          "thumbnailURL": "https://tse3.mm.bing.net/th/id/OIP.Zh1u_VQpkmzpfaXfQ8r0KAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+        },
+        {
+          "formalHardware": "Nintendo Switch",
+          "id": "4da252fa-2706-49f2-a21b-fb8443d2584a",
+          "isGameLink": false,
+          "name": "I FUCKING HATE NINTENDO BTW",
+          "thumbnailURL": "https://giejomagazine.com/wp-content/uploads/2023/07/Nintendo-Sucks.png"
+        }
+      ]
+    }
+  ]
+}
